@@ -17,3 +17,5 @@
   * Camp chairs
   * Camp table
   * Lanterns
+  * Camera
+  * First-aid kit
