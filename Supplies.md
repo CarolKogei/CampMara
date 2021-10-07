@@ -5,6 +5,7 @@
   * Baked beans
   * Canned Meat
   * Vegetables
+  * Snacks
   
 * Sleeping Gears
   * Tents
