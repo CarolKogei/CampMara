@@ -19,3 +19,6 @@
   * Lanterns
   * Camera
   * First-aid kit
+  * Water, for those with sensitive guts
+  * Baloons
+  * Swimming constumes
