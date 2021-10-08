@@ -21,4 +21,9 @@
   * First-aid kit
   * Water, for those with sensitive guts
   * Baloons
-  * Swimming constumes
+  * Swimming costumes
+  * Penknife
+  * Preferred toiletries
+  * Emergency medical kit
+      * Antacids
+      * Broad spectrum antibiotics
