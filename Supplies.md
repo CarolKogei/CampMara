@@ -1,11 +1,14 @@
 # Things to Carry
 * Food
   * Cereals
-  * Fruits
   * Baked beans
   * Canned Meat
   * Vegetables
   * Snacks
+* fruits
+    * oranges
+    * pineapples 
+   *  bananas
   
 * Sleeping Gears
   * Tents
